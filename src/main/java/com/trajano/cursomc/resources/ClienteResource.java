@@ -11,7 +11,7 @@ import com.trajano.cursomc.domain.Cliente;
 import com.trajano.cursomc.services.ClienteService;
 
 @RestController
-@RequestMapping(value = "/categorias")
+@RequestMapping(value = "/clientes")
 public class ClienteResource {
 	
 	@Autowired
