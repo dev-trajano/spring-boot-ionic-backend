@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotEmpty"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
+    <fullyQualifiedTypeName name="com.trajano.cursomc.dto.CategoriaDTO"/>
+    <fullyQualifiedTypeName name="com.trajano.cursomc.domain.Categoria"/>
+</qualifiedTypeNameHistroy>
