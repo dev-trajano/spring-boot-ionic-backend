@@ -1,4 +1,4 @@
-package com.trajano.cursomc.resources.exception;
+package com.nelioalves.cursomc.resources.exception;
 
 import java.io.Serializable;
 
@@ -8,7 +8,7 @@ public class StandardError implements Serializable {
 	private Integer status;
 	private String msg;
 	private Long timeStamp;
-
+	
 	public StandardError(Integer status, String msg, Long timeStamp) {
 		super();
 		this.status = status;
@@ -39,5 +39,4 @@ public class StandardError implements Serializable {
 	public void setTimeStamp(Long timeStamp) {
 		this.timeStamp = timeStamp;
 	}
-
 }
